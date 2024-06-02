@@ -1,5 +1,5 @@
 <script>
-import PlaceholderComponent from './components/PlaceholderComponent.vue'
+import CardsList from './components/CardsList.vue'
 </script>
 
 <template>
